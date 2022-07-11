@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+A short introduction
+---------------------
+This will be a repository to capture all process and code changes internally for all SAP B1 related changes.
+
+
 <!--
 
 **Here are some ideas to get you started:**
